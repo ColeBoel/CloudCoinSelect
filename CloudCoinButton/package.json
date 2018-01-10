@@ -1,0 +1,11 @@
+{
+  "name": "cloudcoinbutton",
+  "version": "1.0.0",
+  "description": "File Selector",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Josh B",
+  "license": "MIT"
+}
